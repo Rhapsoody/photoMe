@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "photoapp-12e94": {
+      "hosting": {
+        "photoApp": [
+          "photoapp-12e94"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "photoapp-12e94"
+  }
+}
